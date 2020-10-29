@@ -1,0 +1,25 @@
+.footer {
+  padding: 50px;
+  font-size: 16px;
+  font-weight: lighter;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  text-align: center;
+}
+
+.footer a {
+  color: lightgrey;
+  font-size: 30px;
+}
+.social-links {
+  display: block;
+/*  padding-top: 10px;*/
+}
+
+.footer p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}

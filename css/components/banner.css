@@ -1,0 +1,66 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 150px 0;
+  text-align: center;
+  text-shadow: 1px 1px 4px grey;
+  background-color: grey;
+}
+
+.btn-banner {
+  display: inline-block;
+  color: white;
+/*  border: 1.5px solid white;*/
+  border-radius: 8px;
+  padding: 16px 26px;
+/*  font-weight: lighter;*/
+  opacity: 0.9;
+  margin-top: 30px;
+  background-color: #94d5f7;
+}
+
+
+.btn-banner:hover {
+  opacity: 1;
+}
+
+.banner h1, p {
+  margin: 0;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 60px;
+  font-weight: 500;
+  letter-spacing: .25px
+}
+
+.banner p {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  color: white;
+  font-size: 25px;
+  letter-spacing: .25px;
+  line-height: 1.6em
+  font-weight: 400;
+  opacity: 0.9;
+}
+
+.banner a {
+  color: white;
+  font-size: 20px;
+  letter-spacing: .25px;
+  text-shadow: none;
+}
+
+/*.banner p {
+  margin: 0;
+}*/
+
+
+
+/* custom styling */
+
+
+
+

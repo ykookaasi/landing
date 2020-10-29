@@ -1,0 +1,22 @@
+.container {
+  width: 900px;
+  margin: 0 auto;
+  /* TODO */
+}
+
+.container h2 {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+@media(max-width: 1000px) {
+  .container {
+    width: 700px;
+  }
+}
+
+@media(max-width: 800px) {
+  .container {
+    width: 500px;
+  }
+}

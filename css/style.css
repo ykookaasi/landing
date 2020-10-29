@@ -1,0 +1,49 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700|Montserrat:wght@400,300,700|M+PLUS+Rounded+1c:wght@400;500;700&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Importing all components file */
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/cards.css");
+@import url("components/footer.css");
+
+
+/* Utilities */
+body {
+  background: rgb(255,255,255);
+  font-size: 18px;
+  margin: 0;
+  font-family: Open Sans, sans-serif;
+  font-weight: lighter;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  color: #232222;
+  font-weight: 500;
+  font-size: 50px;
+}
+h2 {
+  color: black;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/* Custom design below! */
+
+
+.text-center {
+  text-align: center;
+}
